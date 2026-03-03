@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "凪",
+  "base_artist": "マルシィ",
+  "createdAt": "2026-03-03T15:10:00.082990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "凪-nagi-",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/01_凪-nagi-_Ray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "凪 -nagi-",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/02_凪_-nagi-_Ray.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "凪-nagi-",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/03_凪-nagi-_Ray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "凪-nagi-",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/04_凪-nagi-_Ray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "凪-nagi- (TVアニメ「凪のあすから」イメージソング)",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/05_凪-nagi-_(TVアニメ「凪のあすから」イメージソング)_Ray.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "凪-nagi- (instrumental)",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/06_凪-nagi-_(instrumental)_Ray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "凪-nagi- <instrumental>",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/07_凪-nagi-__instrumental_Ray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "凪",
+      "artist": "マルシィ",
+      "has_synced": false,
+      "path": "select/pl_01_凪_マルシィ.txt"
+    }
+  ]
+}
